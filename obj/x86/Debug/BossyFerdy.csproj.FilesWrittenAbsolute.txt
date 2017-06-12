@@ -1,0 +1,5 @@
+/Users/zenobiazhang/Projects/BossyFerdy/BossyFerdy/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/zenobiazhang/Projects/BossyFerdy/BossyFerdy/bin/Debug/BossyFerdy.exe.mdb
+/Users/zenobiazhang/Projects/BossyFerdy/BossyFerdy/bin/Debug/BossyFerdy.exe
+/Users/zenobiazhang/Projects/BossyFerdy/BossyFerdy/obj/x86/Debug/BossyFerdy.exe
+/Users/zenobiazhang/Projects/BossyFerdy/BossyFerdy/obj/x86/Debug/BossyFerdy.exe.mdb

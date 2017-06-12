@@ -1,0 +1,5 @@
+/Users/zenobiazhang/Projects/LoopReverse/LoopReverse/obj/x86/Debug/LoopReverse.csproj.CoreCompileInputs.cache
+/Users/zenobiazhang/Projects/LoopReverse/LoopReverse/bin/Debug/LoopReverse.exe
+/Users/zenobiazhang/Projects/LoopReverse/LoopReverse/bin/Debug/LoopReverse.pdb
+/Users/zenobiazhang/Projects/LoopReverse/LoopReverse/obj/x86/Debug/LoopReverse.exe
+/Users/zenobiazhang/Projects/LoopReverse/LoopReverse/obj/x86/Debug/LoopReverse.pdb
